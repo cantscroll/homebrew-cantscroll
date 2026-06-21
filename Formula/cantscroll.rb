@@ -1,9 +1,9 @@
 class Cantscroll < Formula
   desc "Coding-agent-aware phone blocker for developers"
   homepage "https://cantscroll.com"
-  version "0.1.3"
-  url "https://github.com/cantscroll/cantscroll/releases/download/v0.1.3/cantscroll-0.1.3-macos-universal.zip"
-  sha256 "e06ff58c49775c9590dadd5a13c73133eec56022507297622d9ad7f3466303e5"
+  version "0.1.4"
+  url "https://github.com/cantscroll/cantscroll/releases/download/v0.1.4/cantscroll-0.1.4-macos-universal.zip"
+  sha256 "753ba42669581b1f17e37556e4a255d1d7bb1af0408235388b2eba9cdcfd778d"
   depends_on :macos
 
   def install
